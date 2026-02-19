@@ -10,6 +10,7 @@ To track my consistency and improve technical skills through daily work.
 - Task 1: Number Guessing Game
 - Task 2: Student Grade Calculator
 - Task 3: ATM Interface
+- Task 4: Quiz Application With Timer 
 
 ## How to Run
 Open the respective task folder and follow the instructions inside it.
