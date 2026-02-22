@@ -91,4 +91,5 @@ java CourseRegistrationSystem
 
 ## 📌 Author
 Sakshi Shetty
+
 Developed as part of internship Task 5 project.
